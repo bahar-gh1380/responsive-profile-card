@@ -38,9 +38,6 @@ git clone https://github.com/bahar-gh1380/my-card.git
 
 Open **index.html** in your browser.
 
-## 📷 Screenshots
-
-(Add screenshots here)
 
 ## 👩‍💻 Author
 
