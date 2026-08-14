@@ -1,4 +1,4 @@
-# 👤 My Card
+#  My Card
 
 A responsive personal profile card built using HTML, CSS, and JavaScript.
 
