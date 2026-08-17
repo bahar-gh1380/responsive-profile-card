@@ -20,7 +20,7 @@ This project showcases a modern and responsive personal profile card with a clea
 - CSS3
 - JavaScript (ES6)
 
-## 📚 Skills Demonstrated
+##  Skills Demonstrated
 
 - Responsive Web Design
 - CSS Flexbox
@@ -28,7 +28,7 @@ This project showcases a modern and responsive personal profile card with a clea
 - DOM Manipulation
 - Clean Code Structure
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository:
 
